@@ -1,0 +1,26 @@
+{
+    "name": "mpoiriert/business-rule-engine-bundle",
+    "type": "library",
+    "minimum-stability": "dev",
+    "description": "Reusable library",
+    "keywords": ["library","specification","nucleus","business-rule-engine","symfony","bundle"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Poirier Theoret",
+            "email": "mpoiriert@gmail.com"
+        }
+    ],
+
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "require": {
+        "php": ">=5.3",
+        "mpoiriert/business-rule-engine": "",
+        "symfony/framework-bundle": "~2.4"
+    },
+    "autoload": {
+        "psr-0": {"Nucleus\\Bundle\\BusinessRuleEngineBundle": "src/"}
+    }
+}
