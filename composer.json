@@ -22,6 +22,7 @@
         "symfony/framework-bundle": "~2.4"
     },
     "autoload": {
-        "psr-0": {"Nucleus\\Bundle\\BusinessRuleEngineBundle": "src/"}
-    }
+        "psr-0": {"Nucleus\\Bundle\\BusinessRuleEngineBundle": ""}
+    },
+    "target-dir": "Nucleus/Bundle/BusinessRuleEngineBundle"
 }
