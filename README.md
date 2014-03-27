@@ -3,8 +3,6 @@ Business Rule Engine Bundle
 
 [![Build Status](https://api.travis-ci.org/mpoiriert/business-rule-engine-bundle.png?branch=master)](http://travis-ci.org/mpoiriert/business-rule-engine-bundle)
 
-Integration of the business-rule-engine as a Symfony bundle
-
 Integration of the [BusinessRuleEngine](https://github.com/mpoiriert/business-rule-engine) as a Symfony bundle.
 
 You should read the Business Rule Engine documentation to know how and why to use it. The current documentation
